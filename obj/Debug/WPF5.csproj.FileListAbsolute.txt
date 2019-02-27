@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\bin\Debug\WPF5.exe.config
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\bin\Debug\WPF5.exe
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\bin\Debug\WPF5.pdb
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5_MarkupCompile.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5_MarkupCompile.lref
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5.g.resources
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5.Properties.Resources.resources
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5.exe
+C:\Users\Dell\Documents\Exos\WPF\WPF5\WPF5\WPF5\obj\Debug\WPF5.pdb

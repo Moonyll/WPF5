@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPF5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF5"
+        mc:Ignorable="d"
+        Title="Exercice 5" Height="600" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\Dell\Documents\Exos\WPF\WPF5\Exercice5_computer.png"/>
+        </Grid.Background>
+        <Image Source="C:\Users\Dell\Documents\Exos\WPF\WPF5\Exercice5_laManu.jpg" Width="800" Margin="-8,164,0,194" />
+        <Label Margin="153,59,119,329" Foreground="#2CAFE5" FontFamily="Monospace" FontSize="30" FontWeight="Bold" Background="Transparent">Avec La Manu j'apprends a devenir</Label>
+        <Label Margin="228,112,218,406" Foreground="#2CAFE5" FontFamily="Monospace" FontSize="30" FontWeight="Bold"  Background="Transparent">un bon développeur !</Label>
+    </Grid>
+</Window>
