@@ -8,10 +8,14 @@
         Title="Exercice 5" Height="600" Width="800">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\Dell\Documents\Exos\WPF\WPF5\Exercice5_computer.png"/>
+            <ImageBrush
+                ImageSource="img\Exercice5_computer.png"/>
         </Grid.Background>
-        <Image Source="C:\Users\Dell\Documents\Exos\WPF\WPF5\Exercice5_laManu.jpg" Width="800" Margin="-8,164,0,194" />
-        <Label Margin="153,59,119,329" Foreground="#2CAFE5" FontFamily="Monospace" FontSize="30" FontWeight="Bold" Background="Transparent">Avec La Manu j'apprends a devenir</Label>
-        <Label Margin="228,112,218,406" Foreground="#2CAFE5" FontFamily="Monospace" FontSize="30" FontWeight="Bold"  Background="Transparent">un bon développeur !</Label>
+        <Image Source="img\Exercice5_laManu.jpg" Width="800"
+               Margin="-8,164,0,194" />
+        <TextBlock Margin="153,59,119,329" Foreground="#2CAFE5" FontFamily="Courier New" FontSize="25"
+               FontWeight="Bold" Background="Transparent" TextWrapping="Wrap" TextAlignment="Center">Avec La Manu j'apprends a devenir un bon développeur !</TextBlock>
+        
+    
     </Grid>
 </Window>
